@@ -7,3 +7,8 @@ install the modules:<br />
 How to run the backend:<br />
   cd backend<br />
   python -m uvicorn main:app --reload<br />
+
+ngrok for https tunneling:<br />
+ 1. Download ngrok and place ngrok.exe in a folder.<br />
+ 2. ngrok config add-authtoken "your auth key sign up to get it"<br />
+ 3. ngrok http 80000<br />
