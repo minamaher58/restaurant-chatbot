@@ -16,4 +16,3 @@ ngrok for https tunneling:<br />
 
 ![Alt text](frontend/preview/site-preview.png)
 ![Alt text](frontend/preview/chatbot-preview.png)
-
