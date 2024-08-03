@@ -12,3 +12,8 @@ ngrok for https tunneling:<br />
  1. Download ngrok and place ngrok.exe in a folder.<br />
  2. ngrok config add-authtoken "your auth key sign up to get it"<br />
  3. ngrok http 80000<br />
+
+
+![Alt text](./frontend/preview/site-preview.png)
+![Alt text](./frontend/preview/chatbot-preview.png)
+
