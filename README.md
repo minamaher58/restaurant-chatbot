@@ -14,6 +14,6 @@ ngrok for https tunneling:<br />
  3. ngrok http 80000<br />
 
 
-![Alt text](./frontend/preview/site-preview.png)
-![Alt text](./frontend/preview/chatbot-preview.png)
+![Alt text](frontend/preview/site-preview.png)
+![Alt text](frontend/preview/chatbot-preview.png)
 
